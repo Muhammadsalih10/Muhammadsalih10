@@ -52,7 +52,7 @@ A SwiftUI-based iOS application designed for a beauty services business.
 
 **Technologies:** Swift, SwiftUI, Xcode, UserDefaults
 
-> Repository coming soon.
+[View the BareFaced-iOS Repository](https://github.com/Muhammadsalih10/BareFaced-iOS)
 
 ## 📚 Currently Working On
 
